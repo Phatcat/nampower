@@ -21,4 +21,9 @@ Kronos / Twinstar has said that while they do not support client modification, t
 will not specifically target this mod.  Refer to this thread:
 http://forum.twinstar.cz/showthread.php/97154-Planning-to-release-a-wow-mod-Will-it-get-people-banned
 
+Nostalrius declined to answer my inquiry.  While they are not currently doing anything
+that would cause this to be detected, the modifications are detectable if they decide
+to take the time to do it.  For reference, this is the thread where I posed the question:
+http://forum.nostalrius.org/viewtopic.php?f=6&t=14117
+
 USE AT YOUR OWN RISK
